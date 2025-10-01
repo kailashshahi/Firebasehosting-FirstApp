@@ -7,8 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Indixpert - Welcome to google cloud 
+
         </p>
+        <p>This App Build and Deply using GCP Firebase hosting</p>
         <a
           className="App-link"
           href="https://reactjs.org"
